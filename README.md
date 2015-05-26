@@ -1,4 +1,4 @@
-# My environment and applications for a new mac
+# My Mac Apps
 
 ### Browsers
 Chrome Browser: https://www.google.com/chrome/browser/desktop/
